@@ -60,3 +60,5 @@ require (
 	gopkg.in/warnings.v0 v0.1.2 // indirect
 	sigs.k8s.io/release-utils v0.7.4 // indirect
 )
+
+replace github.com/opensbom-generator/parsers => github.com/williamfzc/parsers v0.0.0-20230829092920-a9cf68f8e50e
